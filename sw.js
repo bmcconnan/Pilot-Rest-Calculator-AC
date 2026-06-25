@@ -1,9 +1,9 @@
-const CACHE_NAME = "pilot-rest-logo-v1";
+const CACHE_NAME = "pilot-rest-actual-start-v1";
 const APP_FILES = [
   "./",
   "./index.html",
   "./pilot-rest-logo-styles.css?v=pilot-rest-20260625-1",
-  "./ac-window-start-signed-app.js?v=pilot-rest-20260625-1",
+  "./pilot-rest-actual-start-app.js?v=pilot-rest-20260625-2",
   "./manifest.webmanifest",
   "./pilot-rest-logo.png"
 ];
